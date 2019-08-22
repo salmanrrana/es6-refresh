@@ -9,3 +9,7 @@ primaryColors.reduce(function(previous, primaryColor) {
   //now we are returning the value of previous
   return previous;
 }, []);
+
+
+//last test to connect github accounts on  account
+// testing git with new branch
