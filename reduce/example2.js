@@ -10,7 +10,7 @@ primaryColors.reduce(function(previous, primaryColor) {
   return previous;
 }, []);
 
-// Testing
-//Testing again
-//another test
-//another test
+
+//last test to connect github accounts on  account
+// testing git with new branch
+
